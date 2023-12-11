@@ -158,7 +158,7 @@
     <!-- Modal Structure -->
     <div id="modal1" class="modal">
         <div class="modal-content">
-            <center>
+            <center>  
                 <h4>Informacion del chofer</h4>
                 <img src="{{asset('imagenes/chofer.png')}}" class="reponsive-img" style="max-height: 100px;"> <br>
                 <h6>{{$chofer->nombre}}</h6>
